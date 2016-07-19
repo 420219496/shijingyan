@@ -15,6 +15,7 @@ body{
 	position: relative;
 }
 #all{
+	box-shadow:5px 5px 7px 2px #000;
 	width: 892px;
 	height: 1386px;
 	margin: 0 auto;
