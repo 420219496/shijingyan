@@ -1,6 +1,6 @@
 var WINDOW_WIDTH=981;
 var WINDOW_HEIGHT=200;
-var r=2.5;
+var r=3.5;
 var LEFT=200;
 var TOP=10;
 
