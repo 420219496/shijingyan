@@ -90,7 +90,7 @@ function updateballs(){
 		balls[i].x+=balls[i].vx;
 		balls[i].y+=balls[i].vy;
 		balls[i].vy+=balls[i].g;
-		if(balls[i].y>=WINDOW_HEIGHT-2*r){
+		if(balls[i].y>=WINDOW_HEIGHT){
 			balls[i].y=WINDOW_HEIGHT;
 			balls[i].vy=-balls[i].vy*0.75;
 		}
