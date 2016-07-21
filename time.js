@@ -1,7 +1,7 @@
 var WINDOW_WIDTH=981;
 var WINDOW_HEIGHT=200;
 var r=3.5;
-var LEFT=150;
+var LEFT=120;
 var TOP=10;
 
 var balls = [];
